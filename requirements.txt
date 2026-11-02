@@ -1,0 +1,6 @@
+# Versiones directas del entorno revisado: Python 3.11, Windows x64.
+PySide6==6.12.0
+opencv-python==4.11.0.86
+numpy==1.26.4
+mss==10.2.0
+chess==1.11.2

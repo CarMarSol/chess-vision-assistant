@@ -1,0 +1,39 @@
+# Python y cachés
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.test-appdata/
+
+# Compilaciones; distribuir paquetes mediante Releases
+/build/
+/dist/
+/ChessVisionAssistant.spec
+/bin/*.exe
+/publicacion/
+
+# Capturas de depuración y preferencias personales
+/debug_*.png
+/qscreen_test.png
+/settings.json
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Herramientas locales
+.idea/
+.vscode/
+.serena/
+Thumbs.db
+Desktop.ini
+
+# No elimina archivos que Git ya tiene registrados.
+# Revisar permisos de data/ y tests/fixtures/ antes de publicarlos.
