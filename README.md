@@ -2,6 +2,8 @@
 
 Aplicación de escritorio para Windows que reconoce un tablero visible en pantalla y muestra análisis local con Stockfish. Está pensada para estudiar posiciones y revisar partidas terminadas, o para usarla en entornos donde la asistencia esté permitida. No necesita cuenta ni API externa.
 
+![Uploading image.png…]()
+
 ## Instalar en Windows
 
 La beta 1.0.0-beta.1 está preparada para **Windows x64 con AVX2**. Cuando se publique la [Release en GitHub](docs/PUBLICACION_GITHUB.md), elige una de estas opciones:
